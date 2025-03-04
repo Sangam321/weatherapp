@@ -6,7 +6,7 @@ class weatherItem extends StatelessWidget {
     Key? key,
     required this.value, required this.text, required this.unit, required this.imageUrl,
   }) : super(key: key);
-
+                         nhg
   final int value;
   final String text;
   final String unit;
